@@ -1,0 +1,15 @@
+D:\Projects\LibraryManagement\LibraryManagement\LibraryManagement.Core\bin\Debug\net6.0\LibraryManagement.Core.deps.json
+D:\Projects\LibraryManagement\LibraryManagement\LibraryManagement.Core\bin\Debug\net6.0\LibraryManagement.Core.dll
+D:\Projects\LibraryManagement\LibraryManagement\LibraryManagement.Core\bin\Debug\net6.0\LibraryManagement.Core.pdb
+D:\Projects\LibraryManagement\LibraryManagement\LibraryManagement.Core\bin\Debug\net6.0\LibraryManagement.Domain.dll
+D:\Projects\LibraryManagement\LibraryManagement\LibraryManagement.Core\bin\Debug\net6.0\LibraryManagement.Domain.pdb
+D:\Projects\LibraryManagement\LibraryManagement\LibraryManagement.Core\obj\Debug\net6.0\LibraryManagement.Core.csproj.AssemblyReference.cache
+D:\Projects\LibraryManagement\LibraryManagement\LibraryManagement.Core\obj\Debug\net6.0\LibraryManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\LibraryManagement\LibraryManagement\LibraryManagement.Core\obj\Debug\net6.0\LibraryManagement.Core.AssemblyInfoInputs.cache
+D:\Projects\LibraryManagement\LibraryManagement\LibraryManagement.Core\obj\Debug\net6.0\LibraryManagement.Core.AssemblyInfo.cs
+D:\Projects\LibraryManagement\LibraryManagement\LibraryManagement.Core\obj\Debug\net6.0\LibraryManagement.Core.csproj.CoreCompileInputs.cache
+D:\Projects\LibraryManagement\LibraryManagement\LibraryManagement.Core\obj\Debug\net6.0\LibraryManagement.Core.csproj.CopyComplete
+D:\Projects\LibraryManagement\LibraryManagement\LibraryManagement.Core\obj\Debug\net6.0\LibraryManagement.Core.dll
+D:\Projects\LibraryManagement\LibraryManagement\LibraryManagement.Core\obj\Debug\net6.0\refint\LibraryManagement.Core.dll
+D:\Projects\LibraryManagement\LibraryManagement\LibraryManagement.Core\obj\Debug\net6.0\LibraryManagement.Core.pdb
+D:\Projects\LibraryManagement\LibraryManagement\LibraryManagement.Core\obj\Debug\net6.0\ref\LibraryManagement.Core.dll
